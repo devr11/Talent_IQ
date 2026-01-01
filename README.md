@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-✨ Highlights::
+✨ Highlights:
 
 - 🧑‍💻 VSCode-Powered Code Editor
 - 🔐 Authentication via Clerk
